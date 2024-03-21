@@ -1,7 +1,7 @@
 ---
 name: BUG
 about: BUG 발생 시 작성해주세요.
-title: "#이슈넘버 Bug : 기능명 - 발생한 버그 내용"
+title: 'Bug : 기능명 - 발생한 버그 내용'
 labels: "\U0001F41Bbug"
 assignees: ''
 

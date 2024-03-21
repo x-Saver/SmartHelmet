@@ -1,7 +1,7 @@
 ---
 name: HELP
 about: 도움 요청 시 작성해주세요.
-title: "#이슈넘버 Help : 기능 - 상세 기능"
+title: 'Help : 기능 - 상세 기능'
 labels: ":sos: help wanted"
 assignees: ''
 

@@ -1,7 +1,7 @@
 ---
 name: DOCUMENT
 about: 환경설정 시 사용해주세요.
-title: "#이슈넘버 Docs : 어떤 세팅인지"
+title: 'Docs : 어떤 세팅인지'
 labels: ":pencil2: documentation"
 assignees: ''
 

@@ -1,7 +1,7 @@
 ---
 name: FEATURE
 about: Feature 작업 사항을 입력해주세요.
-title: "#이슈넘버 Feat : 기능명 - 추가한 세부 기능(생략 가능)"
+title: 'Feat : 기능명 - 추가한 세부 기능(생략 가능)'
 labels: "\U0001F9FE Feat"
 assignees: ''
 

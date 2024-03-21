@@ -1,7 +1,7 @@
 ---
 name: IMPROVE
 about: 기능 개선 요청 시 사용해주세요
-title: "#이슈넘버 Improve : 기능명 - 상세사항"
+title: 'Improve : 기능명 - 상세사항'
 labels: "❓question"
 assignees: ''
 
